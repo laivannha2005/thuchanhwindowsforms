@@ -1,0 +1,10 @@
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\bin\Debug\Bài 5.exe.config
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\bin\Debug\Bài 5.exe
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\bin\Debug\Bài 5.pdb
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài 5.csproj.AssemblyReference.cache
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài_5.groupBox2.resources
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài_5.Properties.Resources.resources
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài 5.csproj.GenerateResource.cache
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài 5.csproj.CoreCompileInputs.cache
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài 5.exe
+H:\windowforms\Bài thực hành 1\Bài 5\Bài 5\obj\Debug\Bài 5.pdb

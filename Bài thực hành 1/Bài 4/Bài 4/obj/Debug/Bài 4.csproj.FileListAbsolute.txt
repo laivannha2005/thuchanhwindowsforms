@@ -1,0 +1,10 @@
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\bin\Debug\Bài 4.exe.config
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\bin\Debug\Bài 4.exe
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\bin\Debug\Bài 4.pdb
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài 4.csproj.AssemblyReference.cache
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài_4.Form1.resources
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài_4.Properties.Resources.resources
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài 4.csproj.GenerateResource.cache
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài 4.csproj.CoreCompileInputs.cache
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài 4.exe
+H:\windowforms\Bài thực hành 1\Bài 4\Bài 4\obj\Debug\Bài 4.pdb

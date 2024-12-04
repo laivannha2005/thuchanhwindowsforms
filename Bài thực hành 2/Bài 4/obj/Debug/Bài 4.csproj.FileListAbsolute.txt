@@ -1,0 +1,10 @@
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\bin\Debug\Bài 4.exe.config
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\bin\Debug\Bài 4.exe
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\bin\Debug\Bài 4.pdb
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài 4.csproj.AssemblyReference.cache
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài_4.Properties.Resources.resources
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài 4.csproj.GenerateResource.cache
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài 4.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài 4.exe
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài 4.pdb
+C:\Users\Modern 14\OneDrive\Documents\TH2WF_11023276_NguyenQuocViet\Bài 4\obj\Debug\Bài_4.Form1.resources
